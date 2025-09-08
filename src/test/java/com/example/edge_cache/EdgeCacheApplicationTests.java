@@ -1,10 +1,10 @@
-// package com.example.edge_cache;
+package com.example.edge_cache;
 
-// @SpringBootTest
-// class EdgeCacheApplicationTests {
+@SpringBootTest
+class EdgeCacheApplicationTests {
 
-// @Test
-// void contextLoads() {
-// }
+@Test
+void contextLoads() {
+}
 
-// }
+}
