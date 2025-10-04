@@ -3,7 +3,6 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
     <groupId>com.example</groupId>
     <artifactId>edge-cache-shortener</artifactId>
     <version>0.0.1-SNAPSHOT</version>
@@ -56,7 +55,6 @@
             <artifactId>postgresql</artifactId>
             <scope>runtime</scope>
         </dependency>
-
         <!-- Redis (for edge-cache layer) -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
